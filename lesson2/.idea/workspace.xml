@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d16ab17-166d-413b-b948-c2ea7a8d82d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/severin/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/severin/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/severin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/severin/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1psyG7iC4FEPae31TDRf2d26UKZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.severin.Main" />
+      <module name="lesson2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d16ab17-166d-413b-b948-c2ea7a8d82d6" name="Default Changelist" comment="" />
+      <created>1615985993314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615985993314</updated>
+      <workItem from="1615986098313" duration="3314000" />
+      <workItem from="1616073651115" duration="1558000" />
+      <workItem from="1616082441071" duration="3164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="221" width="314" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1616083789979">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="221" width="314" height="568" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1616083789979" />
+    <state width="1637" height="229" key="GridCell.Tab.0.bottom" timestamp="1616085368019">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="229" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1616085368019" />
+    <state width="1637" height="229" key="GridCell.Tab.0.center" timestamp="1616085368019">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="229" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1616085368019" />
+    <state width="1637" height="229" key="GridCell.Tab.0.left" timestamp="1616085368019">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="229" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1616085368019" />
+    <state width="1637" height="229" key="GridCell.Tab.0.right" timestamp="1616085368019">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="229" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1616085368019" />
+    <state x="611" y="299" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1616074362571">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="611" y="299" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1616074362571" />
+  </component>
+</project>
